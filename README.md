@@ -7,10 +7,10 @@
 软件架构说明
 
 
-#### 安装教程
+#### 视频源地址
 
-1.  xxxx
-2.  xxxx
+1.  https://gitee.com/zhaoxwing/mytv
+2.  https://gitee.com/tzhlzt/mo/tree/master/wain
 3.  xxxx
 
 #### 使用说明

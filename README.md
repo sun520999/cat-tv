@@ -13,9 +13,9 @@
 2.  https://gitee.com/tzhlzt/mo/tree/master/wain
 3.  xxxx
 
-#### 使用说明
+#### 解析
 
-1.  xxxx
+1.   https://vip.bljiex.com/?v=
 2.  xxxx
 3.  xxxx
 

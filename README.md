@@ -11,7 +11,7 @@
 
 1.  https://gitee.com/zhaoxwing/mytv
 2.  https://gitee.com/tzhlzt/mo/tree/master/wain
-3.  xxxx
+3.  https://gitee.com/wuzuoo/maoconfig/
 
 #### 解析
 

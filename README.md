@@ -9,9 +9,9 @@
 
 #### 视频源地址
 
-1.  https://gitee.com/zhaoxwing/mytv
-2.  https://gitee.com/tzhlzt/mo/tree/master/wain
-3.  https://gitee.com/wuzuoo/maoconfig/
+1. maotv        https://gitee.com/zhaoxwing/mytv
+2. maof         https://gitee.com/tzhlzt/mo/tree/master/wain
+3. maoconfig    https://gitee.com/wuzuoo/maoconfig/
 
 #### 解析
 

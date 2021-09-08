@@ -379,6 +379,34 @@
       "playUrl": ""
     },
     {
+      "key": "乐喵资源",
+      "name": "乐喵资源",
+      "type": 0,
+      "api": "https://98hyk.cn/api.php/provide/vod/at/xm",
+      "playUrl": ""
+    },
+    {
+      "key": "热映解析",
+      "name": "热映解析",
+      "type": 0,
+      "api": "http://hl.reying.vip/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "红影",
+      "name": "红影",
+      "type": 0,
+      "api": "http://csksk.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "星辰云资源",
+      "name": "星辰云资源",
+      "type": 0,
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "360资源",
       "name": "360资源",
       "type": 0,
@@ -509,6 +537,30 @@
           "name": "广东体育",
           "urls": [
             "http://149.129.100.78/guangdong.php?id=47"
+          ]
+        },
+        {
+          "name": "CCTV-风云足球",
+          "urls": [
+            "http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231547/index.m3u8"
+          ]
+        },
+        {
+          "name": "咪咕体育1",
+          "urls": [
+            "http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231778/index.m3u8"
+          ]
+        },
+        {
+          "name": "咪咕体育2",
+          "urls": [
+            "http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232023/index.m3u8"
+          ]
+        },
+        {
+          "name": "咪咕体育3",
+          "urls": [
+            "http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232024/index.m3u8"
           ]
         }
       ]

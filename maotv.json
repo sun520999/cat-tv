@@ -541,6 +541,13 @@
       "playUrl": ""
     },
     {
+      "key": "侦探app",
+      "name": "侦探app",
+      "type": 0,
+      "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "天堂影视",
       "name": "天堂影视",
       "type": 0,
@@ -871,7 +878,7 @@
       "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
     {
-      "name": "vip",
+      "name": "BL",
       "url": "https://vip.bljiex.com/?v="
     },
     {
@@ -919,10 +926,6 @@
     {
       "name": "Ckplayer",
       "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "BL",
-      "url": "https://vip.bljiex.com/?v="
     },
     {
       "name": "ccyjjd",

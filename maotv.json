@@ -337,6 +337,70 @@
       ]
     },
     {
+      "key": "乐多采集",
+      "name": "乐多采集",
+      "type": 0,
+      "api": "https://cj.leduocaiji.com/inc/api.php",
+      "playUrl": "https://api.xxctzy.com/1.php?vid=",
+      "categories": [
+        "综艺",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港剧",
+        "日剧",
+        "欧美剧",
+        "台剧",
+        "韩剧",
+        "其他动漫",
+        "体育赛事",
+        "海外剧",
+        "纪录片",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "动画电影",
+        "篮球",
+        "足球",
+        "网球"
+      ]
+    },
+    {
+      "key": "蘑菇资源",
+      "name": "蘑菇资源",
+      "type": 0,
+      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "犯罪片",
+        "奇幻片",
+        "悬疑片",
+        "动画片",
+        "惊悚片",
+        "古装片",
+        "泰国剧",
+        "其他剧"
+      ]
+    },
+    {
       "key": "09蓝光影视",
       "name": "09蓝光影视",
       "type": 0,
@@ -349,6 +413,27 @@
       "type": 0,
       "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
       "playUrl": ""
+    },
+    {
+      "key": "yunboys",
+      "name": "yunboys",
+      "type": 0,
+      "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "电牛资源",
+      "name": "电牛资源",
+      "type": 0,
+      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "番茄资源",
+      "name": "番茄资源",
+      "type": 0,
+      "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.fqzy.cc/jx.php?url="
     },
     {
       "key": "BL视频",
@@ -379,10 +464,17 @@
       "playUrl": ""
     },
     {
-      "key": "乐喵资源",
-      "name": "乐喵资源",
+      "key": "橘猫影视",
+      "name": "橘猫影视",
       "type": 0,
-      "api": "https://98hyk.cn/api.php/provide/vod/at/xm",
+      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "看看屋",
+      "name": "看看屋",
+      "type": 0,
+      "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
@@ -407,10 +499,24 @@
       "playUrl": ""
     },
     {
+      "key": "影派资源",
+      "name": "影派资源",
+      "type": 0,
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "360资源",
       "name": "360资源",
       "type": 0,
       "api": "http://xa88.vip:88/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "000资源",
+      "name": "000资源",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
@@ -449,17 +555,24 @@
       "playUrl": "https://api.jhdyw.vip/?url="
     },
     {
-      "key": "白熊影院",
-      "name": "白熊影院",
-      "type": 1,
-      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://jiexi.cjt521.com/?url="
+      "key": "欧乐影院",
+      "name": "欧乐影院",
+      "type": 0,
+      "api": "https://www.olevod.tv/api.php/provide/vod/at/xml",
+      "playUrl": ""
     },
     {
       "key": "小蜻蜓采集",
       "name": "小蜻蜓采集",
       "type": 0,
       "api": "http://3ketv.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "2A资源",
+      "name": "2A资源",
+      "type": 0,
+      "api": "https://zy.zcocc.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
@@ -488,13 +601,20 @@
       "name": "真不卡",
       "type": 0,
       "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v="
+      "playUrl": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
     {
       "key": "孤单影院",
       "name": "孤单影院",
       "type": 0,
       "api": "https://www.hanmiys.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "88资源",
+      "name": "88资源",
+      "type": 0,
+      "api": "http://www.88zyw.net/inc/api.php",
       "playUrl": ""
     },
     {

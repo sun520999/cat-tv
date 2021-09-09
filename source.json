@@ -7,7 +7,6 @@
       "type": 2,
       "api": "7gxke5P9eFZoVV",
       "playUrl": "",
-      "searchable": 0,
       "filterable": 1
     },
     {
@@ -210,13 +209,14 @@
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
       "playUrl": ""
     },
-            {
-      "key": "2A资源",
-      "name": "2A资源",
-      "type": 1,
-      "api": "https://zy.zcocc.com/api.php/provide/vod/",
-      "playUrl": ""
-    },
+	{
+		"key": "2A资源",
+		"name": "2A资源",
+		"type": 0,
+		"api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
                 {
       "key": "饭团资源",
       "name": "饭团资源",
@@ -250,6 +250,7 @@
       "name": "1717主流爬（4.4u）",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
+            "searchable": 0,
       "playUrl": "",
  "categories": [
      "综艺",
@@ -562,300 +563,9 @@
       "type": 0,
       "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
-    },
-    {
-		"key": "77资源",
-		"name": "77资源18x",
-		"type": 0,
-		"api": "https://www.77zy.vip/inc/m3u8.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "丝袜资源",
-		"name": "丝袜资源18x",
-		"type": 0,
-		"api": "https://siwazyw.net/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "芒果资源",
-		"name": "芒果资源18x",
-		"type": 0,
-		"api": "https://mgzyz1.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "水蜜桃",
-		"name": "水蜜桃18x",
-		"type": 0,
-		"api": "http://51smt4.xyz/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "秀色资源",
-		"name": "秀色资源18x",
-		"type": 0,
-		"api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "大地资源",
-		"name": "大地资源18x",
-		"type": 0,
-		"api": "https://dadiapi.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "小红资源",
-		"name": "小红资源18x",
-		"type": 0,
-		"api": "https://cj.xhzy1.xyz/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "BB资源",
-		"name": "BB资源18x",
-		"type": 0,
-		"api": "http://bbzy.cc/inc/maccms10.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "老鸭资源",
-		"name": "老鸭资源18x",
-		"type": 0,
-		"api": "http://laoyazy.vip/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "花椒资源",
-		"name": "花椒资源18x",
-		"type": 0,
-		"api": "https://apihjzy.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "辣椒资源",
-		"name": "辣椒资源18x",
-		"type": 0,
-		"api": "http://api.11bat.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "辣椒资源",
-		"name": "辣椒资源18x",
-		"type": 0,
-		"api": "http://www.lajiaozy18.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "乐播资源",
-		"name": "乐播资源18x",
-		"type": 0,
-		"api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "趣播资源",
-		"name": "趣播资源18x",
-		"type": 0,
-		"api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "博天堂",
-		"name": "博天堂18x",
-		"type": 0,
-		"api": "http://bttcj.com/inc/sapi.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "环亚资源",
-		"name": "环亚资源18x",
-		"type": 0,
-		"api": "http://wmcj8.com/inc/sapi.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "JAV名优",
-		"name": "JAV名优18x",
-		"type": 0,
-		"api": "http://mygzycj.com/sapi.php?ac=videolist",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "AVZY6888资源",
-		"name": "AVZY6888资源18x",
-		"type": 0,
-		"api": "http://m.7777688.com/inc/api.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "色色资源",
-		"name": "色色资源18x",
-		"type": 0,
-		"api": "http://secj8.com/inc/sapi.php?ac=videolist",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "玖玖资源",
-		"name": "玖玖资源18x",
-		"type": 0,
-		"api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "富二代资源",
-		"name": "富二代资源18x",
-		"type": 0,
-		"api": "http://f2dcj6.com/sapi/?ac=videolist",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "字幕网",
-		"name": "字幕网18x",
-		"type": 0,
-		"api": "http://zmcj88.com/sapi?ac=videolist",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "佳丽资源",
-		"name": "佳丽资源18x",
-		"type": 0,
-		"api": "https://jialiapi.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "番号资源",
-		"name": "番号资源18x",
-		"type": 0,
-		"api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "苍天资源",
-		"name": "苍天资源18x",
-		"type": 0,
-		"api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "鲨鱼资源",
-		"name": "鲨鱼资源18x",
-		"type": 0,
-		"api": "https://shayuapi.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "狼少年",
-		"name": "狼少年18x",
-		"type": 0,
-		"api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "速度资源",
-		"name": "速度资源18x",
-		"type": 0,
-		"api": "http://www.ggmmzy.com:9999/inc/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "优果资源",
-		"name": "优果资源18x",
-		"type": 0,
-		"api": "https://www.ugzyz5.com/inc/zyapimac.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "100ai18x",
-		"name": "100ai18x",
-		"type": 0,
-		"api": "http://www.010aizy.com/API/maxs.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "猛牛18x",
-		"name": "猛牛18x",
-		"type": 0,
-		"api": "http://nen13.space/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "桃色资源18x",
-		"name": "桃色资源18x",
-		"type": 0,
-		"api": "https://cj.taoseapi.com/inc/api.php",
-		"playUrl": "",
-		"categories": []
-	}
+    }
   ],
   "lives": [
-    {
-      "group": "足球",
-      "channels": [
-        {
-          "name": "五星体育",
-          "urls": [
-            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8"
-          ]
-        },
-        {
-          "name": "魅力足球",
-          "urls": [
-            "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8"
-          ]
-        },
-        {
-          "name": "劲爆体育",
-          "urls": [
-            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
-          ]
-        },
-        {
-          "name": "足球频道",
-          "urls": [
-            "http://nmglive.imfc.cn/5n1r1c/182396.m3u8"
-          ]
-        },
-        {
-          "name": "广东体育",
-          "urls": [
-            "http://149.129.100.78/guangdong.php?id=47"
-          ]
-        }
-      ]
-    },
     {
       "group": "央视",
       "channels": [
@@ -1018,6 +728,77 @@
           "name": "天津卫视",
           "urls": [
             "http://223.110.241.206:6610/gitv/live1/G_TIANJIN-HD-265-5M/G_TIANJIN-HD-265-5M"
+          ]
+        }
+      ]
+    },
+        {
+      "group": "足球",
+      "channels": [
+        {
+          "name": "五星体育",
+          "urls": [
+            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "魅力足球",
+          "urls": [
+            "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "劲爆体育",
+          "urls": [
+            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "足球频道",
+          "urls": [
+            "http://nmglive.imfc.cn/5n1r1c/182396.m3u8"
+          ]
+        },
+        {
+          "name": "广东体育",
+          "urls": [
+            "http://149.129.100.78/guangdong.php?id=47"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "港台",
+      "channels": [
+        {
+          "name": "凤凰卫视",
+          "urls": [
+            "http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
+            "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
+          ]
+        },
+          {
+          "name": "天映经典",
+          "urls": [
+            "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"
+          ]
+        },
+         {
+          "name": "TVB星河",
+          "urls": [
+            "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "TVB翡翠",
+          "urls": [
+            "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8"
           ]
         }
       ]

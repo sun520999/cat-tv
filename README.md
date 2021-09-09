@@ -7,17 +7,22 @@
 软件架构说明
 
 
-#### 安装教程
+#### 视频源地址
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. maotv        https://gitee.com/zhaoxwing/mytv
+2. maof         https://gitee.com/tzhlzt/mo/tree/master/wain
+3. maoconfig    https://gitee.com/wuzuoo/maoconfig/
+4. ljf7889673   https://gitee.com/ljf7889673/ljf222
 
-#### 使用说明
+#### 解析
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.   https://vip.bljiex.com/?v=
+2.   https://www.pangujiexi.cc/jiexi.php?url=
+3.   https://jx.7kjx.com/?url=
+4.   https://www.mgtv.com.muguangys.com/jiexi.php?url=
+5.   https://vip.jianjians.com/?url=
+6.   https://api.jhdyw.vip/?url=
+7.   http://jx.quanmingjiexi.com/?url=
 
 #### 参与贡献
 

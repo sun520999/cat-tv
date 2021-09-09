@@ -7,7 +7,6 @@
       "type": 2,
       "api": "7gxke5P9eFZoVV",
       "playUrl": "",
-      "searchable": 0,
       "filterable": 1
     },
     {
@@ -210,13 +209,14 @@
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
       "playUrl": ""
     },
-            {
-      "key": "2A资源",
-      "name": "2A资源",
-      "type": 1,
-      "api": "https://zy.zcocc.com/api.php/provide/vod/",
-      "playUrl": ""
-    },
+	{
+		"key": "2A资源",
+		"name": "2A资源",
+		"type": 0,
+		"api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
                 {
       "key": "饭团资源",
       "name": "饭团资源",
@@ -251,6 +251,7 @@
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
       "playUrl": "",
+            "searchable": 0,
  "categories": [
      "综艺",
      "动漫",
@@ -776,7 +777,7 @@
       ]
     },
     {
-      "group": "港澳台",
+      "group": "港台",
       "channels": [
         {
           "name": "凤凰卫视",

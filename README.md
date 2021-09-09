@@ -17,8 +17,12 @@
 #### 解析
 
 1.   https://vip.bljiex.com/?v=
-2.  xxxx
-3.  xxxx
+2.   https://www.pangujiexi.cc/jiexi.php?url=
+3.   https://jx.7kjx.com/?url=
+4.   https://www.mgtv.com.muguangys.com/jiexi.php?url=
+5.   https://vip.jianjians.com/?url=
+6.   https://api.jhdyw.vip/?url=
+7.   http://jx.quanmingjiexi.com/?url=
 
 #### 参与贡献
 

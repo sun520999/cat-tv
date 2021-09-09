@@ -105,6 +105,57 @@
 		"categories": []
 	},
         	{
+		"key": "天堂资源",
+		"name": "天堂资源",
+		"type": 0,
+		"api": "http://vipmv.cc/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+         {
+      "key": "苗点蓝光",
+      "name": "苗点蓝光",
+      "type": 1,
+      "api": "https://www.neenl.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jiexi.msdv.cn/jiemi/?url=",
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "动作",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧"
+      ]
+    },
+    {
+      "key": "好好资源",
+      "name": "好好资源",
+      "type": 0,
+      "api": "http://haohaozy.com/api.php/provide/vod/at/xml/"
+    },
+     {
+      "key": "游艺资源",
+      "name": "游艺资源",
+      "type": 1,
+      "api": "http://api01.hexh.ink/api.php/provide/vod/?ac=list",
+      "playUrl": "http://api.u1o.net/?url="
+    },
+    {
+      "key": "9875影视",
+      "name": "9875影视",
+      "type": 1,
+      "api": "https://www.9875.xyz/api.php/provide/vod/?ac=list"
+    },
+        	{
 		"key": "淘片直解",
 		"name": "淘片直解",
 		"type": 0,
@@ -237,12 +288,13 @@
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod",
       "playUrl": ""
     },
-        {
+      {
       "key": "1905资源",
       "name": "1905资源",
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
-      "playUrl": "http://vip.bljiex.com/?v="
+      "playUrl": "http://api.u1o.net/?url=",
+      		"categories": []
     },
         {
       "key": "1717主流爬",

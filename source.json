@@ -209,13 +209,14 @@
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
       "playUrl": ""
     },
-            {
-      "key": "2A资源",
-      "name": "2A资源",
-      "type": 1,
-      "api": "https://zy.zcocc.com/api.php/provide/vod/",
-      "playUrl": ""
-    },
+	{
+		"key": "2A资源",
+		"name": "2A资源",
+		"type": 0,
+		"api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
                 {
       "key": "饭团资源",
       "name": "饭团资源",
@@ -249,6 +250,7 @@
       "name": "1717主流爬（4.4u）",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
+            "searchable": 0,
       "playUrl": "",
  "categories": [
      "综艺",
@@ -766,7 +768,7 @@
       ]
     },
     {
-      "group": "港澳台",
+      "group": "港台",
       "channels": [
         {
           "name": "凤凰卫视",
